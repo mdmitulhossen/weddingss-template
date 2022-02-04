@@ -1,0 +1,25 @@
+@media screen and (max-width: 1024px){
+    .invitation-section .invi-img {
+        width: 90%;
+    }
+    .invitation-section .invi-text{
+        width: 90%;
+    }
+    .invitation-section .address{
+        width: 90%;
+    }
+    .invitation-section .place-img{
+        width: 90%;
+    }
+}
+@media screen and (max-width: 870px){
+    .response div h1 {
+        font-size: 33px;
+        line-height: 45px;
+    }
+}
+@media screen and (max-width: 450px){
+    .response div{
+        top:20%
+    }
+}
